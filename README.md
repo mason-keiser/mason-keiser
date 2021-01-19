@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![](mainpage.png)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mason-keiser&show_icons=true&hide=contribs,issues&theme=vue&card-width=100)                                                                                                                                                                              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mason-keiser&layout=compact&theme=vue&card-width=100)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mason-keiser&show_icons=true&hide=contribs,issues&theme=vue&card_width=50)                                                                                                                                                                              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mason-keiser&layout=compact&theme=vue&card_width=50)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
