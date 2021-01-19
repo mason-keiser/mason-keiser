@@ -1,5 +1,4 @@
-![](back.gif)
-
+<img src="https://github.com/mason-keiser/mason-keiser/back.gif" width="48">
 ---
 
 <details>
