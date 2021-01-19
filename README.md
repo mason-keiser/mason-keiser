@@ -1,4 +1,6 @@
-<img src="back.gif" width="48">
+<img src="back.gif" width="1000">
+
+
 ---
 
 <details>
