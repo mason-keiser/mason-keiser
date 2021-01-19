@@ -1,18 +1,3 @@
-<!--
-**mason-keiser/mason-keiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![](mainpage.png)
 
 ---
@@ -39,10 +24,14 @@ Here are some ideas to get you started:
 * 🛠 I use Bootstrap, npm, Babel, Webpack, Slack, and Photoshop
 * 🌊 Outside of coding, I prefer to spend my time in the ocean surfing
 
+---
+
 ## 📫 Get in Touch
 
 
 * Portfolio: https://masonkeiser.com
 * LinkedIn: https://www.linkedin.com/in/mason-keiser-55323bb9/
+
+---
 
 ## 👇 Check out my apps below 👇
