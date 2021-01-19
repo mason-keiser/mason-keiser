@@ -33,6 +33,3 @@
 * Portfolio: https://masonkeiser.com
 * LinkedIn: https://www.linkedin.com/in/mason-keiser-55323bb9/
 
----
-
-### 👇 Check out my apps below 👇
