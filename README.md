@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 ![](mainpage.png)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mason-keiser&show_icons=true&hide=contribs,issues)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mason-keiser&show_icons=true&hide=contribs,issues&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mason-keiser&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
