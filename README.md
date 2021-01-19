@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![](mainpage.png)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mason-keiser&show_icons=true&hide=contribs,issues)
