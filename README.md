@@ -1,4 +1,4 @@
-![](mainpage.png)
+![](background.mov)
 
 ---
 
