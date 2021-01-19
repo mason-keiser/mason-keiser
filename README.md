@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 #### Before diving into software development I have 5 years of experience working as a medical assistant at an animal hospital. From that experience I gained the soft skills to effectively communicate and be a team player (as well as a team leader when needed). My years of honing my soft skills compliment my technical skills as well.
 
-* 📚 My tech stack is React.js, JavaScript, CSS3, HTML5, Node.js, Express, and PostgreSQL
-* 🛠 I use Bootstrap, npm, Babel, Webpack, Slack, and Photoshop
-* 🌊 Outside of coding, I prefer to spend my time in the ocean surfing
+** 📚 My tech stack is React.js, JavaScript, CSS3, HTML5, Node.js, Express, and PostgreSQL
+** 🛠 I use Bootstrap, npm, Babel, Webpack, Slack, and Photoshop
+** 🌊 Outside of coding, I prefer to spend my time in the ocean surfing
