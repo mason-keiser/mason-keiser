@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 
 
 * Portfolio: https://masonkeiser.com
-* LinkedIn: https://www.linkedin.com/in/mason-keiser-55323bb9/
+* LinkedIn: https://www.linkedin.com/in/mason-keiser/
 
