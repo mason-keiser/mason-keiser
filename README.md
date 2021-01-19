@@ -40,3 +40,8 @@ Here are some ideas to get you started:
 * 🌊 Outside of coding, I prefer to spend my time in the ocean surfing
 
 ## 📫 Get in Touch
+
+
+* Portfolio: https://masonkeiser.com
+* LinkedIn: https://www.linkedin.com/in/mason-keiser-55323bb9/
+
