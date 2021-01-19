@@ -43,5 +43,6 @@ Here are some ideas to get you started:
 
 
 * Portfolio: https://masonkeiser.com
-* LinkedIn: https://www.linkedin.com/in/mason-keiser/
+* LinkedIn: https://www.linkedin.com/in/mason-keiser-55323bb9/
 
+## 👇 Check out my apps below 👇
