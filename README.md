@@ -5,7 +5,8 @@
 
 <details>
   <summary>:zap: Github Statistics: </summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=mason-keiser&show_icons=true&hide=contribs&card_width=500" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason-keiser&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-      stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mason-keiser&show_icons=true&hide=contribs&card_width=500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason-keiser&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-      stats" />
  </details>
 
 
