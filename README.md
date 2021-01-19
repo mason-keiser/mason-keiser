@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 💬 About me
 
-  
+###### My name is Mason, i'm a software engineer and a proud graduate of LearningFuze's full immersion coding program. 
