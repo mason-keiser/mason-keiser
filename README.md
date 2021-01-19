@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 ![](mainpage.png)
 
 
+<details>
+  <summary>:zap: Github Stats: </summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=mason-keiser&show_icons=true&hide=contribs,issues&theme=vue&card_width=500" />
+</details>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mason-keiser&show_icons=true&hide=contribs,issues&theme=vue&card_width=500)                                                                                                                                                                              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mason-keiser&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
