@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ---
 
 
-# 💬 About me
+## 💬 About me
 
 #### My name is Mason, i'm a software engineer and a proud graduate of LearningFuze's full immersion coding program. I have an immense passion for coding, and learning process that goes into coding a project. My most recent project I am proud of was a full stack application that was built to assist medical patients in keeping track of their records (My-Health down in apps below 👇).
 
@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 * 🛠 I use Bootstrap, npm, Babel, Webpack, Slack, and Photoshop
 * 🌊 Outside of coding, I prefer to spend my time in the ocean surfing
 
-# 📫 Get in Touch
+## 📫 Get in Touch
