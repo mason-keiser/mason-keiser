@@ -22,7 +22,7 @@
 
 
 * 📚 My tech stack is React.js, JavaScript, CSS3, HTML5, Node.js, Express, and PostgreSQL
-* 🛠 I use Bootstrap, npm, Babel, Webpack, Slack, and Photoshop
+* 🛠 I use Bootstrap, npm, Babel, Webpack, Slack, and AWS
 * 🌊 Outside of coding, I prefer to spend my time in the ocean surfing
 
 ---
