@@ -1,4 +1,4 @@
-<img src="rec.gif" width="1000">
+<img src="recc.gif" width="1000">
 
 
 ---
