@@ -1,4 +1,4 @@
-<img src="homeg.gif" width="1000">
+<img src="home.gif" width="1000">
 
 
 ---
